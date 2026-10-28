@@ -1,0 +1,18 @@
+
+# Dataset and model files
+data/
+models/
+
+# Python environment
+.venv/
+__pycache__/
+*.py[cod]
+
+# Secrets and local configuration
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
